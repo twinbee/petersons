@@ -1,0 +1,34 @@
+[mbennett@white prog3]$ gnatmake as3.adb && ./as3
+gcc -c as3.adb
+gnatbind -x as3.ali
+gnatlink as3.ali
+# random seed:       3
+# tasks[1-50]:       3
+# iterations[1-50]:  3
+        2 in CS
+        Turn Array: 0 1
+        2 out CS
+    1 in CS
+    Turn Array: 0 1
+    1 out CS
+0 in CS
+Turn Array: 0 0
+0 out CS
+        2 in CS
+        Turn Array: 2 2
+        2 out CS
+    1 in CS
+    Turn Array: 2 0
+    1 out CS
+0 in CS
+Turn Array: 2 0
+0 out CS
+        2 in CS
+        Turn Array: 2 2
+        2 out CS
+    1 in CS
+    Turn Array: 0 1
+    1 out CS
+0 in CS
+Turn Array: 0 0
+0 out CS

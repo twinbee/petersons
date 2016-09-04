@@ -1,0 +1,14 @@
+[mbennett@white prog3]$ gnatmake as3.adb && ./as3
+gnatmake: "as3" up to date.
+# random seed:       1023
+# tasks[1-50]:       1
+# iterations[1-50]:  3
+0 in CS
+Turn Array:
+0 out CS
+0 in CS
+Turn Array:
+0 out CS
+0 in CS
+Turn Array:
+0 out CS

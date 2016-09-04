@@ -1,0 +1,454 @@
+# random seed:       17491
+# tasks[1-50]:       15
+# iterations[1-50]:  10
+    1 in CS
+    Turn Array: 4 12 6 1 1 1 1 1 1 1 1 1 1 1
+    1 out CS
+                        6 in CS
+                        Turn Array: 9 10 11 12 3 14 7 6 6 6 6 6 6 6
+                        6 out CS
+                            7 in CS
+                            Turn Array: 1 9 10 8 11 4 3 0 7 7 7 7 7 7
+                            7 out CS
+        2 in CS
+        Turn Array: 6 1 9 10 8 12 4 5 3 0 2 2 2 2
+        2 out CS
+                                                       14 in CS
+                                                       Turn Array: 7 6 9 10 8 1 1 12 5 3 13 0 14 14 14
+                                                       14 out CS
+0 in CS
+Turn Array: 2 14 1 9 10 8 11 12 4 3 13 0 0 0
+0 out CS
+                                                   13 in CS
+                                                   Turn Array: 0 7 6 14 1 9 10 8 12 5 3 13 13 13
+                                                   13 out CS
+            3 in CS
+            Turn Array: 0 2 7 6 14 1 9 10 8 11 4 5 3 3
+            3 out CS
+                    5 in CS
+                    Turn Array: 13 0 2 7 14 1 9 10 8 11 12 4 5 5
+                    5 out CS
+                4 in CS
+                Turn Array: 3 13 0 2 7 6 1 9 10 11 12 4 4 4
+                4 out CS
+                                               12 in CS
+                                               Turn Array: 5 3 13 2 7 6 14 1 9 10 11 12 12 12
+                                               12 out CS
+                                           11 in CS
+                                           Turn Array: 4 5 3 13 2 7 6 14 9 10 8  11 11 11
+                                           11 out CS
+                                8 in CS
+                                Turn Array: 12 4 5 13 0 2 7 6 1 9 10 8 8 8
+                                8 out CS
+                                       10 in CS
+                                       Turn Array: 11 4 5 3 13 0 2 7 6 14 1 9 1 0 10
+                                       10 out CS
+                                    9 in CS
+                                    Turn Array: 10 11 12 5 3 0 2 7 6 14 1 9 9 9
+                                    9 out CS
+    1 in CS
+    Turn Array: 10 8 11 12 4 5 13 0 2 7 6 1 1 1
+    1 out CS
+                                                       14 in CS
+                                                        Turn Array: 9 10 8 11 12 4 3 13 0 2 7 6 14 14
+                                                       14 out CS
+                        6 in CS
+                        Turn Array: 1 9 10 11 12 4 5 3 13 0 2 7 6 6
+                        6 out CS
+                            7 in CS
+                            Turn Array: 6 1 9 8 11 12 4 5 3 13 2 7 7 7
+                            7 out CS
+        2 in CS
+        Turn Array: 6 14 1 10 11 12 4 5 3 13 0 2 2 2
+        2 out CS
+0 in CS
+Turn Array: 7 14 1 9 10 8 11 4 5 3 0 0 0 0
+0 out CS
+                                                   13 in CS
+                                                   Turn Array: 0 7 6 14 1 10 11 12 4 5 3 13 13 13
+                                                   13 out CS
+            3 in CS
+            Turn Array: 13 0 2 7 14 1 9 10 8 11 4 5 3 3
+            3 out CS
+                    5 in CS
+                    Turn Array: 13 0 2 7 6 14 1 9 10 8 11 4 5 5
+                    5 out CS
+                                               12 in CS
+                                               Turn Array: 3 13 0 7 6 14 1 9 10 8 11 4 12 12
+                                               12 out CS
+                4 in CS
+                Turn Array: 5 3 13 2 7 6 14 1 9 10 11 4 4 4
+                4 out CS
+                                           11 in CS
+                                           Turn Array: 12 5 3 13 0 2 7 14 1 10 8 11 11 11
+                                           11 out CS
+                                8 in CS
+                                Turn Array: 4 12 5 3 13 0 2 7 14 1 9 10 8 8
+                                8 out CS
+                                       10 in CS
+                                       Turn Array: 11 4 12 5 3 13 0 7 6 14 1 9 10 10
+                                       10 out CS
+                                    9 in CS
+                                    Turn Array: 8 11 4 12 5 3 13 0 7 6 14 1 9 9
+                                    9 out CS
+    1 in CS
+    Turn Array: 10 8 11 4 5 3 13 0 2 7 6 14 1 1
+    1 out CS
+                                                       14 in CS
+                                                       Turn Array: 9 10 8 11 4 5 3 0 2 7 6 14 14 14
+                                                       14 out CS
+                        6 in CS
+                        Turn Array: 14 1 9 8 11 4 5 3 13 0 7 6 6 6
+                        6 out CS
+                            7 in CS
+                            Turn Array: 6 1 9 10 8 11 4 12 5 3 13 0 7 7
+                            7 out CS
+        2 in CS
+        Turn Array: 7 6 14 9 10 8 11 4 12 3 13 0 2 2
+        2 out CS
+0 in CS
+Turn Array: 2 7 6 1 9 10 8 11 4 12 5 13 0 0
+0 out CS
+            3 in CS
+            Turn Array: 2 7 6 14 1 9 10 8 11 4 12 13 3 3
+            3 out CS
+                                                   13 in CS
+                                                   Turn Array: 0 2 6 14 1 9 10 8 11 4 12 5 13 13
+                                                   13 out CS
+                    5 in CS
+                    Turn Array: 3 0 2 7 14 1 9 10 8 11 4 5 5 5
+                    5 out CS
+                                               12 in CS
+                                               Turn Array: 13 3 0 2 7 14 1 9 10 8 11 4 12 12
+                                               12 out CS
+                4 in CS
+                Turn Array: 5 13 3 0 2 6 14 1 9 8 11 4 4 4
+                4 out CS
+                                           11 in CS
+                                           Turn Array: 5 13 3 0 2 7 6 14 1 9 10 8 11 11
+                                           11 out CS
+                                8 in CS
+                                Turn Array: 4 5 13 3 0 2 6 14 1 9 10 8 8 8
+                                8 out CS
+                                       10 in CS
+                                       Turn Array: 8 11 12 5 3 0 2 6 14 1 9 10 10 10
+                                       10 out CS
+                                    9 in CS
+                                    Turn Array: 8 11 4 12 5 13 0 2 7 6 1 9 9 9
+                                    9 out CS
+    1 in CS
+    Turn Array: 10 11 4 12 5 13 3 0 2 6 14 1 1 1
+    1 out CS
+                                                       14 in CS
+                                                       Turn Array: 9 10 8 4 12 5 3 0 2 7 6 14 14 14
+                                                       14 out CS
+                        6 in CS
+                        Turn Array: 1 9 10 11 4 12 5 13 3 2 7 6 6 6
+                        6 out CS
+                            7 in CS
+                            Turn Array: 6 14 1 9 8 4 12 5 13 0 2 7 7 7
+                            7 out CS
+        2 in CS
+        Turn Array: 6 14 1 9 10 8 11 4 12 5 3 0 2 2
+        2 out CS
+0 in CS
+Turn Array: 7 6 14 1 9 8 11 4 12 5 3 13 0 0
+0 out CS
+                                                   13 in CS
+                                                   Turn Array: 0 2 7 6 1 9 8 11 12 5 3 13 13 13
+                                                   13 out CS
+            3 in CS
+            Turn Array: 0 2 7 6 14 1 9 8 11 12 5 3 3 3
+            3 out CS
+                    5 in CS
+                    Turn Array: 13 0 7 6 14 1 9 10 8 11 4 12 5 5
+                    5 out CS
+                                               12 in CS
+                                               Turn Array: 3 13 0 2 7 6 14 9 8 11 4 12 12 12
+                                               12 out CS
+                4 in CS
+                Turn Array: 5 3 13 0 7 6 14 1 9 10 11 4 4 4
+                4 out CS
+                                           11 in CS
+                                           Turn Array: 4 5 3 13 0 2 7 6 14 9 10 8 11 11
+                                           11 out CS
+                                8 in CS
+                                Turn Array: 4 12 5 3 13 0 2 6 14 9 1 10 8 8
+                                8 out CS
+                                       10 in CS
+                                       Turn Array: 11 4 12 5 3 13 2 7 6 14 9 10 10 10
+                                       10 out CS
+    1 in CS
+    Turn Array: 8 11 4 5 3 13 0 2 7 14 9 1 1 1
+    1 out CS
+                                    9 in CS
+                                    Turn Array: 10 8 11 4 5 3 13 2 7 6 14 9 9 9
+                                    9 out CS
+                                                       14 in CS
+                                                       Turn Array: 9 1 8 11 4 12 5 3 13 2 7 6 14 14
+                                                       14 out CS
+                        6 in CS
+                        Turn Array: 9 1 10 8 11 4 12 5 3 13 2 7 6 6
+                        6 out CS
+                            7 in CS
+                            Turn Array: 14 9 10 8 11 4 12 5 3 13 2 0 7 7
+                            7 out CS
+0 in CS
+Turn Array: 6 14 1 10 8 11 4 12 5 3 13 2 0 0
+0 out CS
+        2 in CS
+        Turn Array: 7 14 9 1 10 8 11 4 12 5 3 13 2 2
+        2 out CS
+                                                   13 in CS
+                                                   Turn Array: 0 7 6 9 1 10 8 11 4 12 5 13 13 13
+                                                   13 out CS
+            3 in CS
+            Turn Array: 2 0 7 6 14 1 10 8 11 4 12 5 3 3
+            3 out CS
+                    5 in CS
+                    Turn Array: 13 2 0 7 14 9 1 10 8 11 4 12 5 5
+                    5 out CS
+                                               12 in CS
+                                               Turn Array: 3 13 0 7 6 14 9 1 10 8 11 4 12 12
+                                               12 out CS
+                4 in CS
+                Turn Array: 5 3 13 2 0 6 14 9 1 10 11 4 4 4
+                4 out CS
+                                           11 in CS
+                                           Turn Array: 4 12 5 13 0 6 7 14 9 1 10 8 11 11
+                                           11 out CS
+                                8 in CS
+                                Turn Array: 11 4 5 3 13 2 0 6 14 9 1 10 8 8
+                                8 out CS
+                                       10 in CS
+                                       Turn Array: 11 4 12 5 3 13 2 0 7 14 9 1 10 10
+                                       10 out CS
+    1 in CS
+    Turn Array: 10 11 4 12 5 3 2 0 6 7 14 9 1 1
+    1 out CS
+                                    9 in CS
+                                    Turn Array: 10 8 11 4 12 5 3 13 0 6 7 14 9 9
+                                    9 out CS
+                                                       14 in CS
+                                                       Turn Array: 1 10 8 4 12 5 3 13 2 0 6 7 14 14
+                                                       14 out CS
+                            7 in CS
+                            Turn Array: 14 9 10 8 11 4 12 5 3 13 2 0 6 7
+                            7 out CS
+                        6 in CS
+                        Turn Array: 14 9 1 10 8 11 4 12 3 13 2 0 6 6
+                        6 out CS
+0 in CS
+Turn Array: 7 14 9 1 10 8 4 12 5 3 13 2 0 0
+0 out CS
+        2 in CS
+        Turn Array: 6 7 14 9 1 10 11 4 12 5 3 2 2 2
+        2 out CS
+                                                   13 in CS
+                                                   Turn Array: 0 6 7 14 1 10 8 11 4 12 5 3 13 13
+                                                   13 out CS
+            3 in CS
+            Turn Array: 13 0 6 14 9 1 10 8 11 4 12 5 3 3
+            3 out CS
+                    5 in CS
+                    Turn Array: 13 2 0 6 7 14 9 1 10 8 11 12 5 5
+                    5 out CS
+                                               12 in CS
+                                               Turn Array: 3 13 2 0 6 7 14 9 10 8 11 4 12 12
+                                               12 out CS
+                4 in CS
+                Turn Array: 12 5 3 2 0 6 7 9 1 10 8 11 4 4
+                4 out CS
+                                           11 in CS
+                                           Turn Array: 12 5 3 13 2 0 6 7 14 9 1 8 11 11
+                                           11 out CS
+                                8 in CS
+                                Turn Array: 4 12 5 13 2 0 6 7 14 9 1 10 8 8
+                                8 out CS
+                                       10 in CS
+                                       Turn Array: 11 4 12 5 3 13 2 0 6 14 9 1 10 10
+                                       10 out CS
+    1 in CS
+    Turn Array: 8 11 4 5 3 13 2 0 6 7 14 9 1 1
+    1 out CS
+                                    9 in CS
+                                    Turn Array: 1 8 11 4 5 3 13 2 0 6 14 9 9 9
+                                    9 out CS
+                                                       14 in CS
+                                                       Turn Array: 1 10 8 11 4 5 3 13 2 0 6 14 14 14
+                                                       14 out CS
+                            7 in CS
+                            Turn Array: 14 9 1 10 4 5 12 3 13 2 0 6 7 7
+                            7 out CS
+                        6 in CS
+                        Turn Array: 7 14 1 10 11 8 4 5 3 13 2 0 6 6
+                        6 out CS
+0 in CS
+Turn Array: 7 14 9 1 10 8 4 5 12 3 13 2 0 0
+0 out CS
+        2 in CS
+        Turn Array: 6 7 14 9 1 10 8 4 5 12 3 13 2 2
+        2 out CS
+                                                   13 in CS
+                                                   Turn Array: 0 6 7 14 9 1 10 8 4 12 3 13 13 13
+                                                   13 out CS
+            3 in CS
+            Turn Array: 2 0 6 7 14 9 1 10 8 4 5 3 3 3
+            3 out CS
+                                               12 in CS
+                                               Turn Array: 3 2 0 6 7 14 1 10 11 8 4 5 12 12
+                                               12 out CS
+                    5 in CS
+                    Turn Array: 12 13 2 0 6 7 14 9 1 10 8 4 5 5
+                    5 out CS
+                4 in CS
+                Turn Array: 5 12 3 2 0 7 14 9 1 10 11 8 4 4
+                4 out CS
+                                8 in CS
+                                Turn Array: 5 12 3 13 2 0 6 7 14 9 1 8 8 8
+                                8 out CS
+                                           11 in CS
+                                           Turn Array: 4 5 12 3 13 2 0 6 7 14 9 1 10 11
+                                           11 out CS
+                                       10 in CS
+                                       Turn Array: 11 4 5 12 3 2 0 6 7 14 9 1 10 10
+                                       10 out CS
+    1 in CS
+    Turn Array: 11 8 4 5 12 13 2 0 7 14 9 1 1 1
+    1 out CS
+                                    9 in CS
+                                    Turn Array: 10 11 8 5 12 3 13 2 0 6 7 14 9 9
+                                    9 out CS
+                                                       14 in CS
+                                                       Turn Array: 9 10 11 8 5 12 3 13 2 0 6 7 14 14
+                                                       14 out CS
+                            7 in CS
+                            Turn Array: 9 1 10 11 8 4 5 12 13 2 0 6 7 7
+                            7 out CS
+                        6 in CS
+                        Turn Array: 14 9 1 10 11 8 5 12 3 13 2 6 6 6
+                        6 out CS
+        2 in CS
+        Turn Array: 7 14 1 10 11 8 4 5 12 3 13 0 2 2
+        2 out CS
+0 in CS
+Turn Array: 6 14 9 1 10 11 8 4 5 12 3 13 0 0
+0 out CS
+                                                   13 in CS
+                                                   Turn Array: 2 6 7 14 9 1 10 8 4 5 12 13 13 13
+                                                   13 out CS
+            3 in CS
+            Turn Array: 0 2 6 7 9 1 10 11 8 4 5 12 3 3
+            3 out CS
+                                               12 in CS
+                                               Turn Array: 13 0 2 6 7 14 9 1 10 8 4 5 12 12
+                                               12 out CS
+                    5 in CS
+                    Turn Array: 3 13 0 6 7 14 9 1 10 11 8 4 5 5
+                    5 out CS
+                4 in CS
+                Turn Array: 12 3 13 2 6 7 14 9 1 10 11 4 4 4
+                4 out CS
+                                8 in CS
+                                Turn Array: 4 12 3 13 0 2 6 7 14 1 10 11 8 8
+                                8 out CS
+                                           11 in CS
+                                           Turn Array: 8 4 5 12 13 0 2 6 7 14 9 1 10 11
+                                           11 out CS
+                                       10 in CS
+                                       Turn Array: 8 4 5 12 3 13 0 2 6 7 14 9 10 10
+                                       10 out CS
+    1 in CS
+    Turn Array: 11 4 5 12 3 13 0 2 6 7 14 9 1 1
+    1 out CS
+                                    9 in CS
+                                    Turn Array: 1 10 8 4 5 12 13 0 6 7 14 9 9 9
+                                    9 out CS
+                                                       14 in CS
+                                                       Turn Array: 1 10 11 8 4 5 12 3 13 0 6 7 14 14
+                                                       14 out CS
+                            7 in CS
+                            Turn Array: 9 1 10 8 4 5 12 3 13 0 6 2 7 7
+                            7 out CS
+        2 in CS
+        Turn Array: 7 9 1 10 11 8 4 5 12 3 13 6 2 2
+        2 out CS
+0 in CS
+Turn Array: 7 14 9 1 10 8 4 5 12 3 13 6 0 0
+0 out CS
+                        6 in CS
+                        Turn Array: 0 7 14 9 1 10 11 8 4 5 3 13 6 6
+                        6 out CS
+                                                   13 in CS
+                                                   Turn Array: 0 2 7 14 9 1 10 11 8 5 12 3 13 13
+                                                   13 out CS
+            3 in CS
+            Turn Array: 6 0 2 7 14 9 1 10 11 8 4 12 3 3
+            3 out CS
+                                               12 in CS
+                                               Turn Array: 13 6 0 7 14 9 1 10 11 8 4 5 12 12
+                                               12 out CS
+                    5 in CS
+                    Turn Array: 12 13 6 2 7 14 9 1 10 11 8 4 5 5
+                    5 out CS
+                4 in CS
+                Turn Array: 12 3 13 6 0 2 14 9 1 11 8 4 4 4
+                4 out CS
+                                8 in CS
+                                Turn Array: 5 12 3 13 6 0 7 14 9 1 10 11 8 8
+                                8 out CS
+                                           11 in CS
+                                           Turn Array: 4 5 12 13 6 0 2 7 14 9 1 10 11 11
+                                           11 out CS
+                                       10 in CS
+                                       Turn Array: 11 8 4 5 13 6 0 2 7 9 1 10 10 10
+                                       10 out CS
+    1 in CS
+    Turn Array: 11 8 4 5 12 3 13 6 7 14 9 1 1 1
+    1 out CS
+                                    9 in CS
+                                    Turn Array: 10 11 8 4 5 12 3 13 6 0 14 9 9 9
+                                    9 out CS
+                                                       14 in CS
+                                                       Turn Array: 10 11 8 4 5 12 3 13 6 0 2 7 14 14
+                                                       14 out CS
+                            7 in CS
+                            Turn Array: 9 10 11 8 4 5 3 13 6 0 2 7 7 7
+                            7 out CS
+        2 in CS
+        Turn Array: 9 10 11 8 4 5 12 3 13 0 2 2 2 2
+        2 out CS
+0 in CS
+Turn Array: 9 10 11 8 4 5 12 3 13 6 0 0 0 0
+0 out CS
+                        6 in CS
+                        Turn Array: 9 10 11 8 4 5 12 3 13 6 6 6 6 6
+                        6 out CS
+                                                   13 in CS
+                                                   Turn Array: 9 10 11 8 4 5 12 3 13 13 13 13 13 13
+                                                   13 out CS
+            3 in CS
+            Turn Array: 9 10 11 8 4 5 12 3 3 3 3 3 3 3
+            3 out CS
+                                               12 in CS
+                                               Turn Array: 9 10 11 8 4 5 12 12 12 12 12 12 12 12
+                                               12 out CS
+                    5 in CS
+                    Turn Array: 9 10 11 8 4 5 5 5 5 5 5 5 5 5
+                    5 out CS
+                4 in CS
+                Turn Array: 9 10 11 8 4 4 4 4 4 4 4 4 4 4
+                4 out CS
+                                8 in CS
+                                Turn Array: 9 10 11 8 8 8 8 8 8 8 8 8 8 8
+                                8 out CS
+                                           11 in CS
+                                           Turn Array: 9 10 11 11 11 11 11 11 11 11 11 11 11 11
+                                           11 out CS
+                                       10 in CS
+                                       Turn Array: 9 10 10 10 10 10 10 10 10 10 10 10 10 10
+                                       10 out CS
+                                    9 in CS
+                                    Turn Array: 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+                                    9 out CS
+[mbennett@white prog3]$
